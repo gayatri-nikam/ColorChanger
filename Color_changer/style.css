@@ -1,0 +1,33 @@
+.change{
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 20px;
+}
+
+.button {
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    padding: 20px;
+}
+
+#red {
+    background-color: rgb(198, 114, 114);
+}
+
+#blue {
+    background-color: rgb(88, 88, 184);
+}
+
+#pink {
+    background-color: rgb(220, 89, 209);
+}
+
+#green {
+    background-color: rgb(117, 176, 117);
+}
